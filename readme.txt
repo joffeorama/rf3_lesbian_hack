@@ -15,8 +15,8 @@ and in-universe characters as being "more feminine" than even your average soft
 anime farm boi. More to the point, Micah looks like the kind of spunky, peppy 
 anime lesbian a number of real-life lesbians I know would make a picrew of. 
 The game's central gimmick of Micah's sheep form was also easy to work with 
-because what kind of a creep is gonna look at an anime sheep, pull out their 
-anime sheep gender callipers and go "hey, that sheep's a BOY!" 
+because what kind of a creep is gonna look at a hornless anime sheep, pull out
+their anime sheep gender callipers and go "hey, that sheep's a BOY!" 
 A weird sheep creep, that's who!
 
 What this hack changes:
