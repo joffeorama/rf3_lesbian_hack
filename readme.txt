@@ -36,7 +36,7 @@ What this hack changes:
 What this hack does not change:
    * The story and script, aside from the aforementioned "girly Micah" jokes, 
      has not been altered.
-   * The bathrooms. I couldn't figure out how to do the kind of event editing
+   * The baths. I couldn't figure out how to do the kind of event editing
      that would require. Luckily, the game barely mentions gendered bathrooms
      and nothing happens if you try to enter the women's bath anyway, so let's
      all politely pretend that Sharance has a unisex bathhouse and Micah just
