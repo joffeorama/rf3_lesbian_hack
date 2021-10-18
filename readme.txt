@@ -22,14 +22,14 @@ A weird sheep creep, that's who!
 What this hack changes:
    * Micah is now a woman, and referred to as such in the script and events.
    * The swimsuit costume now appropriately covers up Micah's lady nipples both 
-     in her portrait and on her 3D model's texture, as society seems to have some
-     issue with lady nipples being as visible as dude nipples. Look, I can't 
-     patch society.
+     in her portrait and on her 3D model's texture, as society seems to have 
+     some issue with lady nipples being as visible as dude nipples. Look, I 
+     can't patch society.
    * Audio clips that refer to Micah's gender are edited to either refer to her
      as a woman, or no longer mention gender at all.
    * The original game had a surprising amount of jokes regarding Micah "looking
-     like a girl" or "being girly" and such. These jokes have either rewritten or 
-     replaced to make logical sense with Micah's current gender.
+     like a girl" or "being girly" and such. These jokes have either rewritten 
+     or replaced to make logical sense with Micah's current gender.
    * A handful of typos and grammatical errors in the original script have been
      fixed.
 
