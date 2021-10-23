@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-Rune Factory 3 - Lesbian Weresheep Edition 1.0
+Rune Factory 3 - Lesbian Weresheep Edition 1.1
 --------------------------------------------------------------------------------
 
 Like the Story of Seasons series it spin off from, Rune Factory has always had a
@@ -19,7 +19,11 @@ because what kind of a creep is gonna look at a hornless anime sheep, pull out
 their anime sheep gender callipers and go "hey, that sheep's a BOY!" 
 A weird sheep creep, that's who!
 
-What this hack changes:
+Standard Patch
+------------
+Included are two patches, the Standard patch and the "Hacker's Cut" patch.
+Apply only one of the two patches to your rom. The Standard patch changes the
+following:
    * Micah is now a woman, and referred to as such in the script and events.
    * The swimsuit costume now appropriately covers up Micah's lady nipples both 
      in her portrait and on her 3D model's texture, as society seems to have 
@@ -45,6 +49,46 @@ What this hack does not change:
      gets another lady pregnant if they try hard enough. It happens.
    * Any other bugs or glitches that may be found in the original version will 
      still be here.
+
+Hacker's Cut
+------------
+One of the reasons this hack wasn't too difficult to make is that the venn
+diagram of a standard dense anime boy protagonist and a standard dense
+lesbian overlaps in key areas. However, it is not a perfect circle. While
+the standard patch keeps most of the original 2009 localization intact,
+some retro gaming enthusiasts looking for gay sheep content may find
+themselves wishing for something more curated.
+
+The Hacker's Cut patch includes all the same features as the standard patch,
+but includes further changes to the script, mostly around the romantic
+events. It is not intended to be "better", just different (and largely
+because I was curious as to what it might look like). Not every event is 
+altered, but enough is rewritten to stand out if you are already familiar 
+with the original.
+
+Some of these changes are to help the characters feel less generic
+and "player sexual" and give them a more specific relationship with their
+identity as they grow closer to Micah. Some of the changes are due to my
+own tastes, such as toning down the Carmen/Carlos incestousness, changing
+some (not all) of Micah's meaner date options to flirtier teasing or
+cuter options than telling Raven to smile for the goddamn 20th time,
+and ATTEMPTING to add the veneer of pathos to the "let's end racism with
+flowers" plot point. Other changes are completely arbitrary and likely
+won't be noticed by anyone. There's too many to list in full but I tried
+to keep the same tone as the original localization (which, just for
+reference, quoted Jim Carey's The Mask LONG before I showed up).
+
+Which Patch Should I use?
+------------
+If you are specifically nostalgic for the original or want to experience
+a more "vanilla" Rune Factory 3 experience, you may be interested in
+the Standard Patch.
+
+If you've already played Rune Factory 3 and want something different
+or if you specifically want more than just a simple gender flip,
+consider giving the Hacker's Cut a try.
+
+In either case, remember to apply only one of the two patches to your rom.
 
 Requirements
 ------------
